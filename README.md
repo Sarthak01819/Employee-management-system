@@ -180,11 +180,6 @@ If you want to improve this project:
 
 ---
 
-# 📄 License  
-MIT License (optional)
-
----
-
 # 🎉 Final Notes
 
 This project demonstrates how to build a complete **task management system** without a backend using:
