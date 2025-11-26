@@ -126,8 +126,12 @@ http://localhost:5173
 
 | Role | Email | Password |
 |------|--------|-----------|
-| Admin | `admin@gmail.com` | `123` |
-| Employee | `employee2@gmail.com` | `123` |
+| Admin | `admin@example.com` | `123` |
+| Employee | `employee1@example.com` | `123` |
+| Employee | `employee2@example.com` | `123` |
+| Employee | `employee3@example.com` | `123` |
+| Employee | `employee4@example.com` | `123` |
+| Employee | `employee5@example.com` | `123` |
 
 *(Adjust based on your localStorage config.)*
 
